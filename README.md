@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 🚀 Deep in the Trenches with Big Models! 🧠
+# 🚀 Deep in the Trenches with LLMs! 🧠
 
 Hey there! If my code repositories haven't given it away yet, I'm currently deep-diving into the fascinating world of large-scale models. Think of me as a digital spelunker exploring the cavernous depths of the artificial neural networks.
 
